@@ -1,0 +1,5 @@
+ReturnType,PctErrors,AvgOwed,TotalOwed
+"Standard Form 1040",32,220,1829
+"Income < $10,000",49,178,1821
+"$10,000 <= Income <= $49,999",57,303,3522
+"Income >= $50,000",82,8631,2236
